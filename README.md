@@ -7,7 +7,7 @@
 
 
 ## About the website
-![home page]()
+![home page](https://github.com/Alpha-kid/sameer-resume/blob/192bb67f627ba0e4ae91dfc8897122a853dee2a2/Sameer_Ahmed_Portfolio_Website%20-%20Copy.jpg)
 
 
 ## Website is built with
@@ -19,4 +19,4 @@
 <br />
 
 ## To access the website
-Click here: [Sameer Ahmed ]()
+Click here: [Sameer Ahmed ]( https://alpha-kid.github.io/sameer-resume/)
