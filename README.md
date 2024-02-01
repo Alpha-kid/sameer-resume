@@ -1,13 +1,13 @@
 <!-----Title card----->
 <p align="center">
-  <h1 align="center">Andres Choque Website</h1>
+  <h1 align="center">Sameer Ahmed</h1>
 
   <h3 align="center">A website showcasing my personal brand</h3>
 </p>
 
 
 ## About the website
-![home page](https://github.com/andreschoque3/Personal-Website/blob/main/images/Andres_Choque_Portfolio_Website.png)
+![home page]()
 
 
 ## Website is built with
@@ -19,4 +19,4 @@
 <br />
 
 ## To access the website
-Click here: [Andres Choque](https://www.andreschoque.com/)
+Click here: [Sameer Ahmed ]()
